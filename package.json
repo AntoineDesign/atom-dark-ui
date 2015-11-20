@@ -1,10 +1,10 @@
 {
-  "name": "atom-dark-ui",
+  "name": "cafe-espressino-ui",
   "theme": "ui",
-  "version": "0.51.0",
-  "description": "A dark UI theme for Atom",
+  "version": "0.0.0",
+  "description": "The coffee UI theme that goes lovely with our syntax theme",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/AntoineDesign/atom-dark-ui.git",
   "engines": {
     "atom": ">0.40.0"
   }
